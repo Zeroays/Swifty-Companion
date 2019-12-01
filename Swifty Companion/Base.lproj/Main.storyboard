@@ -20,10 +20,10 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="swiftyCompanionBG.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="QJ7-iT-XXQ">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="42_quote_bg" translatesAutoresizingMaskIntoConstraints="NO" id="QJ7-iT-XXQ">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="42_Logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="NK0-vQ-T8O">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="42_logo" translatesAutoresizingMaskIntoConstraints="NO" id="NK0-vQ-T8O">
                                 <rect key="frame" x="16" y="23" width="35" height="25"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="35" id="SIG-Y2-eCe"/>
@@ -43,7 +43,7 @@
                                     <constraint firstAttribute="width" constant="35" id="uB2-pw-FU6"/>
                                 </constraints>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" backgroundImage="magnifying_glass1.png"/>
+                                <state key="normal" backgroundImage="mag_glass"/>
                                 <connections>
                                     <action selector="searchUser:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nwT-4v-iUX"/>
                                 </connections>
@@ -104,7 +104,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="42_intra_background.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="gjL-iu-4ha">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="42_login_bg" translatesAutoresizingMaskIntoConstraints="NO" id="gjL-iu-4ha">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5dx-Dj-nDG">
@@ -113,7 +113,7 @@
                                     <constraint firstAttribute="height" constant="35" id="84R-7l-cQA"/>
                                     <constraint firstAttribute="width" constant="35" id="afp-GV-wYS"/>
                                 </constraints>
-                                <state key="normal" backgroundImage="arrow_button.png"/>
+                                <state key="normal" backgroundImage="arrow_button"/>
                                 <connections>
                                     <action selector="enterNewIntra:" destination="sd5-cD-77F" eventType="touchUpInside" id="JCt-yx-rsa"/>
                                 </connections>
@@ -214,10 +214,10 @@
         </scene>
     </scenes>
     <resources>
-        <image name="42_Logo.png" width="138" height="97"/>
-        <image name="42_intra_background.jpg" width="2000" height="1300"/>
-        <image name="arrow_button.png" width="512" height="512"/>
-        <image name="magnifying_glass1.png" width="512" height="512"/>
-        <image name="swiftyCompanionBG.jpg" width="3840" height="2160"/>
+        <image name="42_login_bg" width="2000" height="1300"/>
+        <image name="42_logo" width="138" height="97"/>
+        <image name="42_quote_bg" width="3840" height="2160"/>
+        <image name="arrow_button" width="512" height="512"/>
+        <image name="mag_glass" width="512" height="512"/>
     </resources>
 </document>

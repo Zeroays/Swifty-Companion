@@ -14,18 +14,13 @@
 		E76663172390811300D0177A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E76663152390811300D0177A /* LaunchScreen.storyboard */; };
 		E76663222390811300D0177A /* Swifty_CompanionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76663212390811300D0177A /* Swifty_CompanionTests.swift */; };
 		E766632D2390811300D0177A /* Swifty_CompanionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E766632C2390811300D0177A /* Swifty_CompanionUITests.swift */; };
-		E766633D2390827300D0177A /* swiftyCompanionBG.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E766633B2390827300D0177A /* swiftyCompanionBG.jpg */; };
-		E766633E2390827300D0177A /* 42_Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E766633C2390827300D0177A /* 42_Logo.png */; };
 		E7666340239082A300D0177A /* QuotesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E766633F239082A300D0177A /* QuotesManager.swift */; };
 		E7666342239082B100D0177A /* QuotesData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7666341239082B100D0177A /* QuotesData.swift */; };
 		E76663482390923B00D0177A /* IntraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76663472390923B00D0177A /* IntraViewController.swift */; };
-		E766634C2390967300D0177A /* 42_intra_background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E766634B2390967300D0177A /* 42_intra_background.jpg */; };
 		E76663632390ACBA00D0177A /* APITokenManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76663622390ACBA00D0177A /* APITokenManager.swift */; };
 		E76663652390BB9500D0177A /* APITokenData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76663642390BB9500D0177A /* APITokenData.swift */; };
 		E76663672390D84300D0177A /* APIUserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76663662390D84300D0177A /* APIUserData.swift */; };
 		E76663692390D85400D0177A /* APIUserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E76663682390D85400D0177A /* APIUserManager.swift */; };
-		E7F1AC322391F2BB00D12B7A /* magnifying_glass1.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F1AC312391F2BB00D12B7A /* magnifying_glass1.png */; };
-		E7F1AC342391F31800D12B7A /* arrow_button.png in Resources */ = {isa = PBXBuildFile; fileRef = E7F1AC332391F31800D12B7A /* arrow_button.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,18 +54,13 @@
 		E76663282390811300D0177A /* Swifty CompanionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swifty CompanionUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E766632C2390811300D0177A /* Swifty_CompanionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swifty_CompanionUITests.swift; sourceTree = "<group>"; };
 		E766632E2390811300D0177A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E766633B2390827300D0177A /* swiftyCompanionBG.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = swiftyCompanionBG.jpg; path = ../../swiftyCompanionBG.jpg; sourceTree = "<group>"; };
-		E766633C2390827300D0177A /* 42_Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 42_Logo.png; path = ../../42_Logo.png; sourceTree = "<group>"; };
 		E766633F239082A300D0177A /* QuotesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesManager.swift; sourceTree = "<group>"; };
 		E7666341239082B100D0177A /* QuotesData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesData.swift; sourceTree = "<group>"; };
 		E76663472390923B00D0177A /* IntraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = IntraViewController.swift; path = "/nfs/2018/v/vrabaib/Desktop/Swifty Companion/Swifty Companion/IntraViewController.swift"; sourceTree = "<absolute>"; };
-		E766634B2390967300D0177A /* 42_intra_background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 42_intra_background.jpg; path = ../../42_intra_background.jpg; sourceTree = "<group>"; };
 		E76663622390ACBA00D0177A /* APITokenManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APITokenManager.swift; sourceTree = "<group>"; };
 		E76663642390BB9500D0177A /* APITokenData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APITokenData.swift; sourceTree = "<group>"; };
 		E76663662390D84300D0177A /* APIUserData.swift */ = {isa = PBXFileReference; indentWidth = 5; lastKnownFileType = sourcecode.swift; path = APIUserData.swift; sourceTree = "<group>"; };
 		E76663682390D85400D0177A /* APIUserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIUserManager.swift; sourceTree = "<group>"; };
-		E7F1AC312391F2BB00D12B7A /* magnifying_glass1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = magnifying_glass1.png; path = ../../magnifying_glass1.png; sourceTree = "<group>"; };
-		E7F1AC332391F31800D12B7A /* arrow_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = arrow_button.png; path = ../../arrow_button.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +91,6 @@
 		E76663002390811200D0177A = {
 			isa = PBXGroup;
 			children = (
-				E766633A2390824C00D0177A /* Images */,
 				E766630B2390811200D0177A /* Swifty Companion */,
 				E76663202390811300D0177A /* Swifty CompanionTests */,
 				E766632B2390811300D0177A /* Swifty CompanionUITests */,
@@ -155,18 +144,6 @@
 				E766632E2390811300D0177A /* Info.plist */,
 			);
 			path = "Swifty CompanionUITests";
-			sourceTree = "<group>";
-		};
-		E766633A2390824C00D0177A /* Images */ = {
-			isa = PBXGroup;
-			children = (
-				E7F1AC312391F2BB00D12B7A /* magnifying_glass1.png */,
-				E766634B2390967300D0177A /* 42_intra_background.jpg */,
-				E766633C2390827300D0177A /* 42_Logo.png */,
-				E766633B2390827300D0177A /* swiftyCompanionBG.jpg */,
-				E7F1AC332391F31800D12B7A /* arrow_button.png */,
-			);
-			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,14 +250,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E7F1AC322391F2BB00D12B7A /* magnifying_glass1.png in Resources */,
-				E7F1AC342391F31800D12B7A /* arrow_button.png in Resources */,
 				E76663172390811300D0177A /* LaunchScreen.storyboard in Resources */,
 				E76663142390811300D0177A /* Assets.xcassets in Resources */,
 				E76663122390811200D0177A /* Main.storyboard in Resources */,
-				E766633E2390827300D0177A /* 42_Logo.png in Resources */,
-				E766634C2390967300D0177A /* 42_intra_background.jpg in Resources */,
-				E766633D2390827300D0177A /* swiftyCompanionBG.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
